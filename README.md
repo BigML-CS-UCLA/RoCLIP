@@ -1,6 +1,6 @@
 # Robust Contrastive Language-Image Pretraining against Data Poisoning and Backdoor Attacks
 
-<h1 align="center"><img src="./docs/images/intro.png" width="75%"></h1>
+<h1 align="center"><img src="../docs/images/intro.png" width="75%"></h1>
 
 [[Paper](https://openreview.net/pdf?id=ONwL9ucoYG)]
 
@@ -28,6 +28,7 @@ For ImageNet1K: There should be a labels.csv in the test data directory that con
 
 ## Acknowledgements
 Some code in this repo comes from the following repositories:
+
 [CyCLIP](https://github.com/goel-shashank/CyCLIP)
 
 [mlfoundations](https://github.com/mlfoundations/open_clip)  
